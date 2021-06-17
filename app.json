@@ -3,19 +3,19 @@
     "description": "Grabs song from yt and sends it to telegram by @mr_srlock",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org.",
+            "description": "4080786.",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org.",
+            "description": "b214aec132378022e02df812714ba7a4",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Get this value by making a bot from @BotFather.",
+            "description": "1884268881:AAEquOfr8gHeC0KAiCBye7FPEUa-f4Mqo-8",
             "required": true
         },
         "OWNER_ID": {
-            "description": "Your telegram user id.",
+            "description": "1686223760",
             "required": true
         }
     },
